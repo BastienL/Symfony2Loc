@@ -33,3 +33,8 @@ Usage
 To use it, just type (at the root of your Symfony2 project):
 `php app/console count:loc`
 
+
+About
+-----
+You can find this project on packagist: https://packagist.org/packages/bastienl/symfony2loc-bundle
+
