@@ -1,0 +1,26 @@
+{
+    "name": "bastienl/symfony2loc-bundle",
+    "description": "Count lines of code you wrote in your Symfony2 project",
+    "keywords": [ "loc", "symfony" ],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+        "name": "Bastien Libersa",
+        "email": "bastien.libersa@gmail.com"
+    }
+    ],
+    "require": {
+        "symfony/framework-bundle": "~2.3",
+        "symfony/console": "~2.3"
+    },
+    "autoload": {
+        "psr-0": { "BastienL\\Bundle\\Symfony2LocBundle": "" }
+    },
+    "target-dir": "BastienL/Bundle/Symfony2LocBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1"
+        }
+    }
+}
