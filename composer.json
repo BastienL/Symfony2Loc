@@ -20,7 +20,7 @@
     "target-dir": "BastienL/Bundle/Symfony2LocBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1"
+            "master": "0.1"
         }
     }
 }
