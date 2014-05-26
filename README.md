@@ -10,7 +10,7 @@ Installation
 ------------
 
 To install it, just add the following line to your composer.json file:
-	`"bastienl/symfony2loc-bundle" : "0.1"`
+	`"bastienl/symfony2loc-bundle" : "dev-master"`
 	
 And register it in `app/AppKernel.php`:
 
